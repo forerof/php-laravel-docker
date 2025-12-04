@@ -11,7 +11,7 @@
                 <div class="breadcrumb_iner">
                     <div class="breadcrumb_iner_item">
                         <h2>Login</h2>
-                        <p>Inicio <span>-</span> Login</p>
+                        <p>Home <span>-</span> Login</p>
                     </div>
                 </div>
             </div>
